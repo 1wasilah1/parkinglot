@@ -9,10 +9,10 @@ ParkingLot app is an automated ticketing system that allows customers to use my 
     rspec (~> 3.0)
 # author
 Wasil
-# license
-ISC
 # file
-start_park.rb
+./file/input.txt
+./start_park.rb
+./get.rb
 # Running
 # using UNIX 
   ruby start_park.rb
